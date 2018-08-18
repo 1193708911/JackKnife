@@ -1,0 +1,1 @@
+include ':app', ':binder_compiler', ':binder_annotation', ':binder_api'
